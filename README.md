@@ -1,7 +1,7 @@
 # IBM-Project-31470-1660200782
 
-## **Project Title :** A Gesture-based Tool for Sterile Browsing of Radiology Images
-## **Team Id :** PNT2022TMID39288
+### **Project Title :** A Gesture-based Tool for Sterile Browsing of Radiology Images
+### **Team Id :** PNT2022TMID39288
 
 # Team Details
 

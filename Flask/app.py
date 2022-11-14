@@ -152,4 +152,4 @@ def launch():
      
 if __name__ == "__main__":
    # running the app
-    app.run(debug=False)
+    app.run(debug=True)
